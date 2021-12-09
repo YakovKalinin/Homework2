@@ -3,7 +3,7 @@ public class Main {
         int price = 12000;
         int bonus = 20;
         int reward = price / bonus;
-        System.out.println("Your reward is " + reward + " rub");
+        System.out.println("Your reward is " + reward + " miles");
 
     }
 }
